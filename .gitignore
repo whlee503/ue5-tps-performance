@@ -1,0 +1,21 @@
+# Unreal generated files and local editor state.
+/miniTPS/Binaries/
+/miniTPS/DerivedDataCache/
+/miniTPS/Intermediate/
+/miniTPS/Saved/
+/miniTPS/.vs/
+/miniTPS/*.sln
+
+# Third-party content and plugins are not distributed in this repository (see README).
+/miniTPS/Content/
+/miniTPS/Plugins/
+
+# Packaged builds and captures.
+/Builds/
+
+# Python bytecode.
+__pycache__/
+*.pyc
+
+# Export bookkeeping.
+/.export_manifest.json
